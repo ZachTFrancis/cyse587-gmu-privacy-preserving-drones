@@ -1,6 +1,3 @@
-# cyse587-gmu-privacy-preserving-drones
-CYSE 587 group project addressing privacy concerns for drones capturing private spaces within the scope of the UTM framework.
-
 # Project Theme
 
 How can drone operations be designed to prevent the unintended or deliberate capture of private spaces, such as through windows, while still enabling their intended applications?
